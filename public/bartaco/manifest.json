@@ -1,0 +1,19 @@
+{
+  "name": "bartaco Recipe Book",
+  "short_name": "bartaco",
+  "description": "Quick cocktail recipe reference for bar shifts.",
+  "start_url": "/bartaco/index.html",
+  "scope": "/bartaco/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#eef4fa",
+  "theme_color": "#2A4A7C",
+  "icons": [
+    {
+      "src": "img/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
