@@ -286,10 +286,16 @@
   /* ---------- Load data ---------- */
   async function loadRecipes() {
     try {
-      const res = await fetch('data/recipes.json', { cache: 'no-cache' });
+      const res = await fetch('/bartaco/data/recipes.json', { cache: 'no-cache' });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
-      state.recipes = Array.isArray(data) ? data : [];
+      state.recipes = (Array.isArray(data) ? data : []).map((r) => {
+        // Normalize image paths to absolute so they resolve regardless of trailing slash
+        if (r.image && !r.image.startsWith('/') && !/^https?:/i.test(r.image)) {
+          r.image = '/bartaco/' + r.image.replace(/^\.?\//, '');
+        }
+        return r;
+      });
       buildFilters();
       applyFilters();
     } catch (err) {
@@ -323,7 +329,7 @@
   function registerSW() {
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
-        navigator.serviceWorker.register('sw.js').catch((e) => {
+        navigator.serviceWorker.register('/bartaco/sw.js', { scope: '/bartaco/' }).catch((e) => {
           console.warn('SW registration failed:', e);
         });
       });

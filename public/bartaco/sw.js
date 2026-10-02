@@ -4,10 +4,9 @@
    Bump CACHE_VERSION whenever assets change to refresh clients.
    ============================================================ */
 
-const CACHE_VERSION = 'bt-recipes-v2';
+const CACHE_VERSION = 'bt-recipes-v3';
 
 const APP_SHELL = [
-  './',
   './index.html',
   './styles.css',
   './app.js',
