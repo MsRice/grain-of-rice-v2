@@ -1,709 +1,1548 @@
 [
   {
-    "id":  "mojito",
-    "name":  "Mojito",
-    "category":  "cocktail",
-    "glass":  "collins",
-    "image":  "img/mojito.png",
-    "ingredients":  [
-              {
-                "amount":  "10-12",
-                "unit":  "leaves",
-                "item":  "mint leaves"
-              },
-              {
-                "amount":  5,
-                "unit":  "cubes",
-                "item":  "sugar cubes"
-              },
-              {
-                "amount":  1,
-                "unit":  "pinch",
-                "item":  "salt"
-              },
-              {
-                "amount":  1,
-                "unit":  "oz",
-                "item":  "lime juice"
-              },
-              {
-                "amount":  2,
-                "unit":  "oz",
-                "item":  "house rum"
-              },
-              {
-                "amount":  2,
-                "unit":  "oz",
-                "item":  "club soda"
-              }
-            ],
-    "garnish":  [
-            "1 large mint sprig",
-            "2 lime wedges"
-          ],
-    "instructions":  [
-              "Muddle mint, sugar, salt, and lime juice together.",
-              "Measure all other ingredients into shaker.",
-              "Add ice and shake.",
-              "Double strain into Collins glass with 4 ice cubes.",
-              "Add 1 oz soda to shaker, swirl, and top glass.",
-              "Garnish with mint and lime."
-            ]
+    "id": "mojito",
+    "name": "Mojito",
+    "category": "cocktail",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": "10-12",
+        "unit": "leaves",
+        "item": "mint leaves"
+      },
+      {
+        "amount": 5,
+        "unit": "cubes",
+        "item": "sugar cubes"
+      },
+      {
+        "amount": 1,
+        "unit": "pinch",
+        "item": "salt"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "house rum"
+      },
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "club soda"
+      }
+    ],
+    "garnish": [
+      "1 large mint sprig",
+      "2 lime wedges"
+    ],
+    "instructions": [
+      "Muddle mint, sugar, salt, and lime juice together.",
+      "Measure all other ingredients into shaker.",
+      "Add ice and shake.",
+      "Double strain into Collins glass with 4 ice cubes.",
+      "Add 1 oz soda to shaker, swirl, and top glass.",
+      "Garnish with mint and lime."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "",
+    "image": "img/mojito.png"
   },
   {
-    "id":  "oaxacan-sunshine",
-    "name":  "Oaxacan Sunshine",
-    "category":  "cocktail",
-    "glass":  "rocks",
-    "image":  "img/oaxacan-sunshine.png",
-    "ingredients":  [
-              {
-                "amount":  1,
-                "unit":  "wedge",
-                "item":  "orange, peeled"
-              },
-              {
-                "amount":  3,
-                "unit":  "leaves",
-                "item":  "mint"
-              },
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "agave simple syrup"
-              },
-              {
-                "amount":  0.75,
-                "unit":  "oz",
-                "item":  "Liber passionfruit syrup"
-              },
-              {
-                "amount":  1,
-                "unit":  "oz",
-                "item":  "lime juice"
-              },
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "Suze/Salers Gentiane liqueur"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "Libélula Joven tequila"
-              }
-            ],
-    "garnish":  [
-            "mint sprig",
-            "chia seeds",
-            "1 pump mezcal spray"
-          ],
-    "instructions":  [
-              "Lightly muddle orange, mint, and simple syrup.",
-              "Add remaining ingredients to cocktail shaker.",
-              "Fill with ice and shake.",
-              "Strain into rocks glass with 4 fresh ice cubes.",
-              "Add 1-2 barspoons of prepped chia seeds to the top.",
-              "Garnish with fresh mint sprig and mist with 1 pump mezcal spray."
-            ]
+    "id": "oaxacan-sunshine",
+    "name": "Oaxacan Sunshine",
+    "category": "cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "wedge",
+        "item": "orange, peeled"
+      },
+      {
+        "amount": 3,
+        "unit": "leaves",
+        "item": "mint"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "agave simple syrup"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "Liber passionfruit syrup"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "Suze/Salers Gentiane liqueur"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Joven tequila"
+      }
+    ],
+    "garnish": [
+      "mint sprig",
+      "chia seeds",
+      "1 pump mezcal spray"
+    ],
+    "instructions": [
+      "Lightly muddle orange, mint, and simple syrup.",
+      "Add remaining ingredients to cocktail shaker.",
+      "Fill with ice and shake.",
+      "Strain into rocks glass with 4 fresh ice cubes.",
+      "Add 1-2 barspoons of prepped chia seeds to the top.",
+      "Garnish with fresh mint sprig and mist with 1 pump mezcal spray."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "",
+    "image": "img/oaxacan-sunshine.png"
   },
   {
-    "id":  "old-thymer",
-    "name":  "Old Thymer",
-    "category":  "cocktail",
-    "glass":  "rocks",
-    "image":  "img/old-thymer.png",
-    "ingredients":  [
-              {
-                "amount":  6,
-                "unit":  "sprigs",
-                "item":  "thyme"
-              },
-              {
-                "amount":  2,
-                "unit":  "wedges",
-                "item":  "lemon"
-              },
-              {
-                "amount":  1,
-                "unit":  "wedge",
-                "item":  "orange"
-              },
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "simple syrup"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "house sweet vermouth"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "house bourbon"
-              },
-              {
-                "amount":  3,
-                "unit":  "dashes",
-                "item":  "Angostura"
-              }
-            ],
-    "garnish":  [
-            "1 thyme sprig"
-          ],
-    "instructions":  [
-              "Muddle thyme, lemon, orange, and simple syrup.",
-              "Measure all ingredients into shaker.",
-              "Add ice and shake.",
-              "Double strain into rocks glass with 4 ice cubes.",
-              "Garnish with thyme sprig."
-            ]
+    "id": "old-thymer",
+    "name": "Old Thymer",
+    "category": "cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 6,
+        "unit": "sprigs",
+        "item": "thyme"
+      },
+      {
+        "amount": 2,
+        "unit": "wedges",
+        "item": "lemon"
+      },
+      {
+        "amount": 1,
+        "unit": "wedge",
+        "item": "orange"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "simple syrup"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "house sweet vermouth"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "house bourbon"
+      },
+      {
+        "amount": 3,
+        "unit": "dashes",
+        "item": "Angostura"
+      }
+    ],
+    "garnish": [
+      "1 thyme sprig"
+    ],
+    "instructions": [
+      "Muddle thyme, lemon, orange, and simple syrup.",
+      "Measure all ingredients into shaker.",
+      "Add ice and shake.",
+      "Double strain into rocks glass with 4 ice cubes.",
+      "Garnish with thyme sprig."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "",
+    "image": "img/old-thymer.png"
   },
   {
-    "id":  "summer-caipirinha",
-    "name":  "Summer Caipirinha",
-    "category":  "cocktail",
-    "glass":  "rocks",
-    "image":  "img/summer-caipirinha.png",
-    "ingredients":  [
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "lime juice"
-              },
-              {
-                "amount":  4,
-                "unit":  "cubes",
-                "item":  "sugar"
-              },
-              {
-                "amount":  2,
-                "unit":  "wedges",
-                "item":  "lime cut in half (wedges halved)"
-              },
-              {
-                "amount":  1,
-                "unit":  "wedge",
-                "item":  "orange (1/8 wedge)"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "house cachaça"
-              },
-              {
-                "amount":  0.75,
-                "unit":  "oz",
-                "item":  "elderflower liqueur"
-              }
-            ],
-    "garnish":  [
-            "short straw"
-          ],
-    "instructions":  [
-              "Muddle lime juice and sugar.",
-              "Add limes and orange wedge and gently press to release juice.",
-              "Measure and pour cachaça and elderflower liqueur into shaker.",
-              "Add 7 ice cubes (about 3/4 full) and shake hard.",
-              "Dump into glass."
-            ]
+    "id": "summer-caipirinha",
+    "name": "Summer Caipirinha",
+    "category": "cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 4,
+        "unit": "cubes",
+        "item": "sugar"
+      },
+      {
+        "amount": 2,
+        "unit": "wedges",
+        "item": "lime cut in half (wedges halved)"
+      },
+      {
+        "amount": 1,
+        "unit": "wedge",
+        "item": "orange (1/8 wedge)"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "house cachaça"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "elderflower liqueur"
+      }
+    ],
+    "garnish": [
+      "short straw"
+    ],
+    "instructions": [
+      "Muddle lime juice and sugar.",
+      "Add limes and orange wedge and gently press to release juice.",
+      "Measure and pour cachaça and elderflower liqueur into shaker.",
+      "Add 7 ice cubes (about 3/4 full) and shake hard.",
+      "Dump into glass."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "",
+    "image": "img/summer-caipirinha.png"
   },
   {
-    "id":  "classic-caipirinha",
-    "name":  "Classic Caipirinha",
-    "category":  "cocktail",
-    "glass":  "rocks",
-    "image":  "img/classic-caipirinha.png",
-    "ingredients":  [
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "lime juice"
-              },
-              {
-                "amount":  5,
-                "unit":  "cubes",
-                "item":  "sugar"
-              },
-              {
-                "amount":  4,
-                "unit":  "wedges",
-                "item":  "lime cut in half (wedges halved)"
-              },
-              {
-                "amount":  2,
-                "unit":  "oz",
-                "item":  "house cachaça"
-              }
-            ],
-    "garnish":  [
-            "short straw"
-          ],
-    "instructions":  [
-              "Muddle lime juice and sugar.",
-              "Add limes and gently press to release juice.",
-              "Measure and pour cachaça into shaker.",
-              "Add 7 ice cubes (about 3/4 full) and shake hard.",
-              "Dump into glass."
-            ]
+    "id": "classic-caipirinha",
+    "name": "Classic Caipirinha",
+    "category": "cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 5,
+        "unit": "cubes",
+        "item": "sugar"
+      },
+      {
+        "amount": 4,
+        "unit": "wedges",
+        "item": "lime cut in half (wedges halved)"
+      },
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "house cachaça"
+      }
+    ],
+    "garnish": [
+      "short straw"
+    ],
+    "instructions": [
+      "Muddle lime juice and sugar.",
+      "Add limes and gently press to release juice.",
+      "Measure and pour cachaça into shaker.",
+      "Add 7 ice cubes (about 3/4 full) and shake hard.",
+      "Dump into glass."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "Two sheets disagree: original lists 2 oz cachaça; later sheet lists 1.75 oz. Confirm current spec.",
+    "image": "img/classic-caipirinha.png"
   },
   {
-    "id":  "paloma-fresca",
-    "name":  "Paloma Fresca",
-    "category":  "cocktail",
-    "glass":  "collins",
-    "image":  "img/paloma-fresca.png",
-    "ingredients":  [
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "lime juice"
-              },
-              {
-                "amount":  0.75,
-                "unit":  "oz",
-                "item":  "simple syrup"
-              },
-              {
-                "amount":  1,
-                "unit":  "oz",
-                "item":  "grapefruit juice"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "Libélula Joven tequila"
-              },
-              {
-                "amount":  1,
-                "unit":  "dash",
-                "item":  "grapefruit bitters"
-              },
-              {
-                "amount":  3,
-                "unit":  "dashes",
-                "item":  "Peychaud\u0027s bitters"
-              }
-            ],
-    "instructions":  [
-              "Measure all ingredients into shaker besides club soda.",
-              "Add ice and shake.",
-              "Add 1 oz soda water to shaker.",
-              "Strain into Collins glass with 4 fresh ice cubes."
-            ]
+    "id": "paloma-fresca",
+    "name": "Paloma Fresca",
+    "category": "cocktail",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "simple syrup"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "grapefruit juice"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Joven tequila"
+      },
+      {
+        "amount": 1,
+        "unit": "dash",
+        "item": "grapefruit bitters"
+      },
+      {
+        "amount": 3,
+        "unit": "dashes",
+        "item": "Peychaud's bitters"
+      }
+    ],
+    "instructions": [
+      "Measure all ingredients into shaker besides club soda.",
+      "Add ice and shake.",
+      "Add 1 oz soda water to shaker.",
+      "Strain into Collins glass with 4 fresh ice cubes."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "",
+    "image": "img/paloma-fresca.png"
   },
   {
-    "id":  "bartaco-spicy-margarita",
-    "name":  "Bartaco Spicy Margarita",
-    "category":  "cocktail",
-    "glass":  "rocks",
-    "image":  "img/bartaco-spicy-margarita.png",
-    "ingredients":  [
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "agave simple syrup"
-              },
-              {
-                "amount":  0.25,
-                "unit":  "ml",
-                "item":  "monin jalapeño syrup"
-              },
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "house triple sec"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "lime juice"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "Libélula Joven tequila"
-              }
-            ],
-    "garnish":  [
-            "jalapeño coin"
-          ],
-    "instructions":  [
-              "Measure agave simple first, then others.",
-              "Add ice and shake.",
-              "Strain into rocks glass with 4 fresh ice cubes."
-            ]
+    "id": "bartaco-spicy-margarita",
+    "name": "Bartaco Spicy Margarita",
+    "category": "cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "each",
+        "item": "jalapeño coins"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "agave simple syrup"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "house triple sec"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Joven tequila"
+      }
+    ],
+    "garnish": [
+      "jalapeño coin"
+    ],
+    "instructions": [
+      "Lightly muddle 2 jalapeño coins",
+      "Add remaining ingredients",
+      "Add ice and shake",
+      "Double strain into rocks glass with 4 fresh ice cubes",
+      "Garnish with jalapeño coin"
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "",
+    "image": "img/bartaco-spicy-margarita.png"
   },
   {
-    "id":  "bartaco-green-margarita",
-    "name":  "Bartaco Green Margarita",
-    "category":  "cocktail",
-    "glass":  "rocks",
-    "image":  "img/bartaco-green-margarita.png",
-    "ingredients":  [
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "agave simple syrup"
-              },
-              {
-                "amount":  1,
-                "unit":  "oz",
-                "item":  "lime juice"
-              },
-              {
-                "amount":  2,
-                "unit":  "oz",
-                "item":  "green juice"
-              },
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "house triple sec"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "Libélula Joven tequila"
-              }
-            ],
-    "garnish":  [
-            "half Tajín rim"
-          ],
-    "instructions":  [
-              "Measure agave first, then others.",
-              "Add ice and shake.",
-              "Strain into rocks glass with 4 fresh ice cubes."
-            ]
+    "id": "bartaco-green-margarita",
+    "name": "Bartaco Green Margarita",
+    "category": "cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "agave simple syrup"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "green juice"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "house triple sec"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Joven tequila"
+      }
+    ],
+    "garnish": [
+      "half Tajín rim"
+    ],
+    "instructions": [
+      "Measure agave first, then others.",
+      "Add ice and shake.",
+      "Strain into rocks glass with 4 fresh ice cubes."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "",
+    "image": "img/bartaco-green-margarita.png"
   },
   {
-    "id":  "bartaco-reposado-margarita",
-    "name":  "Bartaco Reposado Margarita",
-    "category":  "cocktail",
-    "glass":  "rocks",
-    "image":  "img/libelula_reposado_margarita.png",
-    "ingredients":  [
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "agave simple syrup"
-              },
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "house triple sec"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "lime juice"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "Libélula Reposado tequila"
-              }
-            ],
-    "garnish":  [
-            "half salt rim",
-            "lime wheel"
-          ],
-    "instructions":  [
-              "Measure agave simple first, then others.",
-              "Add ice and shake.",
-              "Strain into rocks glass with 4 fresh ice cubes."
-            ]
+    "id": "bartaco-old-fashioned",
+    "name": "Bartaco Old Fashioned",
+    "category": "cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 2.5,
+        "unit": "ml",
+        "item": "sugar in the raw simple syrup"
+      },
+      {
+        "amount": 2,
+        "unit": "dashes",
+        "item": "orange bitters"
+      },
+      {
+        "amount": 0.25,
+        "unit": "oz",
+        "item": "Luxardo maraschino"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Añejo tequila"
+      }
+    ],
+    "garnish": [
+      "expressed orange peel",
+      "Luxardo cherry"
+    ],
+    "instructions": [
+      "Add all ingredients into a shaker tin.",
+      "Add 5 ice cubes and stir with bar spoon for 20-30 seconds.",
+      "Strain into rocks glass with 4 fresh ice cubes.",
+      "Express orange peel over top and garnish with Luxardo cherry."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "",
+    "image": "img/bartaco-old-fashioned.png"
   },
   {
-    "id":  "bartaco-old-fashioned",
-    "name":  "Bartaco Old Fashioned",
-    "category":  "cocktail",
-    "glass":  "rocks",
-    "image":  "img/bartaco-old-fashioned.png",
-    "ingredients":  [
-              {
-                "amount":  2.5,
-                "unit":  "ml",
-                "item":  "sugar in the raw simple syrup"
-              },
-              {
-                "amount":  2,
-                "unit":  "dashes",
-                "item":  "orange bitters"
-              },
-              {
-                "amount":  0.25,
-                "unit":  "oz",
-                "item":  "Luxardo maraschino"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "Libélula Añejo tequila"
-              }
-            ],
-    "garnish":  [
-            "expressed orange peel",
-            "Luxardo cherry"
-          ],
-    "instructions":  [
-              "Add all ingredients into a shaker tin.",
-              "Add 5 ice cubes and stir with bar spoon for 20-30 seconds.",
-              "Strain into rocks glass with 4 fresh ice cubes.",
-              "Express orange peel over top and garnish with Luxardo cherry."
-            ]
+    "id": "cazuela",
+    "name": "Cazuela",
+    "category": "cocktail",
+    "glass": "terracotta cup",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "each",
+        "item": "lime wedge"
+      },
+      {
+        "amount": 1,
+        "unit": "each",
+        "item": "orange wedge"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "agave simple syrup"
+      },
+      {
+        "amount": 1,
+        "unit": "pinch",
+        "item": "salt"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "grapefruit juice"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Joven tequila"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Sprite"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "full salt rim, lime + orange wedge"
+      }
+    ],
+    "instructions": [
+      "Add lime, orange, and agave simple to tin.",
+      "Lightly muddle to release juice.",
+      "Add salt, lime juice, grapefruit juice, and Libélula Joven.",
+      "Add 5-7 ice cubes and shake.",
+      "Rim entire edge of terracotta cup with salt, add 6 ice cubes, and strain.",
+      "Top with 0.75 oz Sprite.",
+      "Garnish with lime wedge, orange wedge, and short straw."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "Original transcription had 1 oz tequila; newer signature sheet shows 1.5 oz. Use latest printed sheet; happy-hour variant also supplied.",
+    "image": "img/cazuela.png"
   },
   {
-    "id":  "cazuela",
-    "name":  "Cazuela",
-    "category":  "cocktail",
-    "glass":  "terracotta cup",
-    "image":  "img/cazuela.png",
-    "ingredients":  [
-              {
-                "amount":  1,
-                "unit":  "each",
-                "item":  "lime wedge"
-              },
-              {
-                "amount":  1,
-                "unit":  "each",
-                "item":  "orange wedge"
-              },
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "agave simple syrup"
-              },
-              {
-                "amount":  1,
-                "unit":  "pinch",
-                "item":  "salt"
-              },
-              {
-                "amount":  0.5,
-                "unit":  "oz",
-                "item":  "lime juice"
-              },
-              {
-                "amount":  1,
-                "unit":  "oz",
-                "item":  "grapefruit juice"
-              },
-              {
-                "amount":  1,
-                "unit":  "oz",
-                "item":  "Libélula Joven tequila"
-              },
-              {
-                "amount":  1.5,
-                "unit":  "oz",
-                "item":  "Sprite"
-              },
-              {
-                "amount":  0.75,
-                "unit":  "oz",
-                "item":  "full salt rim, lime + orange wedge"
-              }
-            ],
-    "instructions":  [
-              "Add lime, orange, and agave simple to tin.",
-              "Lightly muddle to release juice.",
-              "Add salt, lime juice, grapefruit juice, and Libélula Joven.",
-              "Add 5-7 ice cubes and shake.",
-              "Rim entire edge of terracotta cup with salt, add 6 ice cubes, and strain.",
-              "Top with 0.75 oz Sprite.",
-              "Garnish with lime wedge, orange wedge, and short straw."
-            ]
+    "id": "pineapple-pisco-punch",
+    "name": "Pineapple Pisco Punch",
+    "category": "cocktail",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": 3.5,
+        "unit": "oz",
+        "item": "pineapple pisco batch"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "lemon juice"
+      }
+    ],
+    "garnish": [
+      "1/2 pineapple chip"
+    ],
+    "instructions": [
+      "Add all ingredients into small tin.",
+      "Add 5-6 ice cubes and shake for 20 seconds.",
+      "Strain into Collins glass with 4 ice cubes.",
+      "Garnish with 1/2 pineapple chip and crushed ice if needed."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": "",
+    "image": "img/pineapple-pisco-punch.png"
   },
   {
-    "id":  "pineapple-pisco-punch",
-    "name":  "Pineapple Pisco Punch",
-    "category":  "cocktail",
-    "glass":  "collins",
-    "image":  "img/pineapple-pisco-punch.png",
-    "ingredients":  [
-              {
-                "amount":  3.5,
-                "unit":  "oz",
-                "item":  "pineapple pisco batch"
-              },
-              {
-                "amount":  0.75,
-                "unit":  "oz",
-                "item":  "lemon juice"
-              }
-            ],
-    "garnish":  [
-            "1/2 pineapple chip"
-          ],
-    "instructions":  [
-              "Add all ingredients into small tin.",
-              "Add 5-6 ice cubes and shake for 20 seconds.",
-              "Strain into Collins glass with 4 ice cubes.",
-              "Garnish with 1/2 pineapple chip and crushed ice if needed."
-            ]
+    "id": "watermelon-mint-marg",
+    "name": "Watermelon Mint Marg",
+    "category": "summer beverage",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": null,
+        "item": "Libélula Joven tequila"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "watermelon Combier"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "watermelon"
+      }
+    ],
+    "garnish": [
+      "1/2 rim chamoy with Tajín",
+      "2 watermelon cubes with mint leaf skewer"
+    ],
+    "notes": "Ingredient quantities are not visible on the supplied summer rollout card.",
+    "source": "original uploaded recipe sheets",
+    "image": "img/watermelon-mint-marg.png"
   },
   {
-    "id":  "watermelon-mint-marg",
-    "name":  "Watermelon Mint Marg",
-    "category":  "summer beverage",
-    "glass":  "rocks",
-    "image":  "img/watermelon-mint-marg.png",
-    "ingredients":  [
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "Libélula Joven tequila"
-              },
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "watermelon Combier"
-              },
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "watermelon"
-              }
-            ],
-    "garnish":  [
-            "1/2 rim chamoy with Tajín",
-            "2 watermelon cubes with mint leaf skewer"
-          ],
-    "notes":  "Ingredient quantities are not visible on the supplied summer rollout card."
+    "id": "watermelon-limonada",
+    "name": "Watermelon Limonada",
+    "category": "summer beverage",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": null,
+        "item": "watermelon"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "lemon juice"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "simple syrup"
+      }
+    ],
+    "garnish": [
+      "watermelon cube skewer"
+    ],
+    "notes": "Ingredient quantities are not visible on the supplied summer rollout card.",
+    "source": "original uploaded recipe sheets",
+    "image": "img/watermelon-limonada.png"
   },
   {
-    "id":  "watermelon-limonada",
-    "name":  "Watermelon Limonada",
-    "category":  "summer beverage",
-    "glass":  "collins",
-    "image":  "img/watermelon-limonada.png",
-    "ingredients":  [
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "watermelon"
-              },
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "lemon juice"
-              },
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "simple syrup"
-              }
-            ],
-    "garnish":  [
-            "watermelon cube skewer"
-          ],
-    "notes":  "Ingredient quantities are not visible on the supplied summer rollout card."
+    "id": "cucumber-cooler",
+    "name": "Cucumber Cooler",
+    "category": "summer beverage",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": null,
+        "item": "cucumber"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "cilantro"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "tonic water"
+      }
+    ],
+    "garnish": [
+      "cucumber roll skewer"
+    ],
+    "notes": "Ingredient quantities are not visible on the supplied summer rollout card.",
+    "source": "original uploaded recipe sheets",
+    "image": "img/cucumber-cooler.png"
   },
   {
-    "id":  "cucumber-cooler",
-    "name":  "Cucumber Cooler",
-    "category":  "summer beverage",
-    "glass":  "rocks",
-    "image":  "img/cucumber-cooler.png",
-    "ingredients":  [
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "cucumber"
-              },
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "cilantro"
-              },
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "tonic water"
-              }
-            ],
-    "garnish":  [
-            "cucumber roll skewer"
-          ],
-    "notes":  "Ingredient quantities are not visible on the supplied summer rollout card."
+    "id": "yuzu-arnie-palmer",
+    "name": "Yuzu Arnie Palmer",
+    "category": "summer beverage",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": null,
+        "item": "brewed tea"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "yuzu"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "agave simple syrup"
+      }
+    ],
+    "garnish": [],
+    "notes": "Ingredient quantities are not visible on the supplied summer rollout card.",
+    "source": "original uploaded recipe sheets",
+    "image": "img/yuzu-arnie-palmer.png"
   },
   {
-    "id":  "yuzu-arnie-palmer",
-    "name":  "Yuzu Arnie Palmer",
-    "category":  "summer beverage",
-    "glass":  "collins",
-    "image":  "img/yuzu-arnie-palmer.png",
-    "ingredients":  [
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "brewed tea"
-              },
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "yuzu"
-              },
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "agave simple syrup"
-              }
-            ],
-    "garnish":  [
-
-          ],
-    "notes":  "Ingredient quantities are not visible on the supplied summer rollout card."
+    "id": "zero-proof-marg",
+    "name": "Zero Proof Marg",
+    "category": "zero proof",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": null,
+        "item": "Tilden Lacewing"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "lime juice"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "orange juice"
+      }
+    ],
+    "garnish": [
+      "1/2 Tajín rim",
+      "orange wedge"
+    ],
+    "notes": "Ingredient quantities are not visible on the supplied summer rollout card.",
+    "source": "original uploaded recipe sheets",
+    "image": "img/zero-proof-marg.png"
   },
   {
-    "id":  "zero-proof-marg",
-    "name":  "Zero Proof Marg",
-    "category":  "zero proof",
-    "glass":  "rocks",
-    "image":  "img/zero-proof-marg.png",
-    "ingredients":  [
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "Tilden Lacewing"
-              },
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "lime juice"
-              },
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "orange juice"
-              }
-            ],
-    "garnish":  [
-            "1/2 Tajín rim",
-            "orange wedge"
-          ],
-    "notes":  "Ingredient quantities are not visible on the supplied summer rollout card."
+    "id": "tilden-lacewing",
+    "name": "Tilden Lacewing",
+    "category": "zero proof",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": null,
+        "unit": null,
+        "item": "Tilden Lacewing"
+      }
+    ],
+    "garnish": [
+      "cucumber slice"
+    ],
+    "notes": "N/A cocktail with botanical notes and bright citrus fruit flavors (cucumber, basil, lychee).",
+    "source": "original uploaded recipe sheets",
+    "image": "img/tilden-lacewing.png"
   },
   {
-    "id":  "tilden-lacewing",
-    "name":  "Tilden Lacewing",
-    "category":  "zero proof",
-    "glass":  "rocks",
-    "image":  "img/tilden-lacewing.png",
-    "ingredients":  [
-              {
-                "amount":  null,
-                "unit":  null,
-                "item":  "Tilden Lacewing"
-              }
-            ],
-    "garnish":  [
-            "cucumber slice"
-          ],
-    "notes":  "N/A cocktail with botanical notes and bright citrus fruit flavors (cucumber, basil, lychee)."
+    "id": "la-pi-a-margarita",
+    "name": "La Piña Margarita",
+    "category": "happy hour cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "each",
+        "item": "mint leaves"
+      },
+      {
+        "amount": 1,
+        "unit": "each",
+        "item": "jalapeño coin"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "simple syrup"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "pineapple syrup"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "pineapple juice"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Blanco tequila"
+      }
+    ],
+    "instructions": [
+      "Add all ingredients into small tin",
+      "Add 5–6 ice cubes and shake 20 seconds",
+      "Double strain into rocks glass with 4 ice cubes"
+    ],
+    "garnish": [
+      "jalapeño coin"
+    ],
+    "source": "1000001095.jpg",
+    "notes": "",
+    "image": "img/la-pi-a-margarita.png"
+  },
+  {
+    "id": "coconut-mojito",
+    "name": "Coconut Mojito",
+    "category": "happy hour cocktail",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": "8–10",
+        "unit": "leaves",
+        "item": "mint"
+      },
+      {
+        "amount": 4,
+        "unit": "cubes",
+        "item": "sugar"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "cream of coconut"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "Don Q white rum"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "Don Q coconut rum"
+      },
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "club soda"
+      }
+    ],
+    "instructions": [
+      "Muddle mint, sugar, salt and lime together (salt is in instructions, not ingredient table)",
+      "Add remaining ingredients except soda to tin",
+      "Add 5–6 ice cubes and shake 20 seconds",
+      "Add ice and mint garnish to Collins glass",
+      "Add soda to tin, double strain into glass"
+    ],
+    "garnish": [
+      "7–9 mint leaves",
+      "2 lime wedges",
+      "straw"
+    ],
+    "source": "1000001095.jpg",
+    "notes": "",
+    "image": "img/coconut-mojito.png"
+  },
+  {
+    "id": "coco-melon-margarita",
+    "name": "Coco Melon Margarita",
+    "category": "happy hour cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "cream of coconut"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "simple syrup"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "honeydew juice"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Blanco tequila"
+      }
+    ],
+    "instructions": [
+      "Add all ingredients to small tin",
+      "Add 5–6 ice cubes and shake 20 seconds",
+      "Strain into rocks glass with 4 ice cubes"
+    ],
+    "garnish": [],
+    "source": "1000001095.jpg",
+    "notes": "",
+    "image": "img/coco-melon-margarita.png"
+  },
+  {
+    "id": "el-bandarra-spritz",
+    "name": "El Bandarra Spritz",
+    "category": "happy hour cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "El Bandarra al fresco"
+      },
+      {
+        "amount": 3,
+        "unit": "oz",
+        "item": "Barcava"
+      }
+    ],
+    "instructions": [
+      "Add ingredients to rocks glass",
+      "Add 4–5 ice cubes and stir lightly",
+      "Garnish with lemon peel"
+    ],
+    "garnish": [
+      "lemon peel"
+    ],
+    "source": "1000001095.jpg",
+    "notes": "",
+    "image": "img/el-bandarra-spritz.png"
+  },
+  {
+    "id": "michelada",
+    "name": "Michelada",
+    "category": "happy hour cocktail",
+    "glass": "beer glass",
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "oz",
+        "item": "sangrita"
+      },
+      {
+        "amount": 1,
+        "unit": "each",
+        "item": "Tecate beer"
+      }
+    ],
+    "instructions": [
+      "Apply full chamoy and Tajín rim",
+      "Add 5 ice cubes",
+      "Pour 3 oz sangrita into glass",
+      "Fill with Tecate and gently stir",
+      "Garnish lime wedge",
+      "Serve remaining Tecate in can"
+    ],
+    "garnish": [
+      "full chamoy and Tajín rim",
+      "lime wedge"
+    ],
+    "source": "1000001095.jpg",
+    "notes": "",
+    "image": "img/michelada.png"
+  },
+  {
+    "id": "limeade",
+    "name": "Limeade",
+    "category": "nonalcoholic",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "water"
+      },
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "simple syrup"
+      }
+    ],
+    "instructions": [
+      "Measure all ingredients",
+      "Add ice, shake and strain into Collins glass"
+    ],
+    "garnish": [
+      "lime wedge"
+    ],
+    "source": "1000001097.jpg",
+    "notes": "",
+    "image": "img/limeade.png"
+  },
+  {
+    "id": "lemonade",
+    "name": "Lemonade",
+    "category": "nonalcoholic",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "lemon juice"
+      },
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "water"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "simple syrup"
+      }
+    ],
+    "instructions": [
+      "Measure all ingredients",
+      "Add ice, shake and strain into Collins glass"
+    ],
+    "garnish": [
+      "lemon wedge"
+    ],
+    "source": "1000001097.jpg",
+    "notes": "",
+    "image": "img/lemonade.png"
+  },
+  {
+    "id": "sweet-tea",
+    "name": "Sweet Tea",
+    "category": "nonalcoholic",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": 24,
+        "unit": "oz",
+        "item": "brewed tea"
+      },
+      {
+        "amount": 4,
+        "unit": "oz",
+        "item": "agave simple syrup"
+      }
+    ],
+    "instructions": [
+      "Add tea and agave to shaker",
+      "Dry shake well",
+      "Strain into carafe",
+      "Serve with glass and ice"
+    ],
+    "garnish": [
+      "lime wedge"
+    ],
+    "source": "1000001097.jpg",
+    "notes": "",
+    "image": "img/sweet-tea.png"
+  },
+  {
+    "id": "ginger-mint-tea",
+    "name": "Ginger Mint Tea",
+    "category": "nonalcoholic",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": "35–40",
+        "unit": "leaves",
+        "item": "mint"
+      },
+      {
+        "amount": 24,
+        "unit": "oz",
+        "item": "brewed tea"
+      },
+      {
+        "amount": 4,
+        "unit": "oz",
+        "item": "ginger agave simple"
+      }
+    ],
+    "instructions": [
+      "Add mint, tea and ginger agave to shaker",
+      "Dry shake well",
+      "Double strain into carafe and add 2–3 mint sprigs",
+      "Serve with glass and ice"
+    ],
+    "garnish": [
+      "mint sprig"
+    ],
+    "source": "1000001097.jpg",
+    "notes": "",
+    "image": "img/ginger-mint-tea.png"
+  },
+  {
+    "id": "arnie-palmer",
+    "name": "Arnie Palmer",
+    "category": "nonalcoholic",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "oz",
+        "item": "lemon juice"
+      },
+      {
+        "amount": 19,
+        "unit": "oz",
+        "item": "brewed tea"
+      },
+      {
+        "amount": 5,
+        "unit": "oz",
+        "item": "agave simple syrup"
+      }
+    ],
+    "instructions": [
+      "Add lemon juice, tea and agave to tin",
+      "Shake with ice well",
+      "Double strain into carafe",
+      "Add half lemon cut into wheels",
+      "Serve with glass and ice"
+    ],
+    "garnish": [
+      "lemon wedge"
+    ],
+    "source": "1000001097.jpg",
+    "notes": "",
+    "image": "img/arnie-palmer.png"
+  },
+  {
+    "id": "kids-clarico",
+    "name": "Kids Clarico",
+    "category": "nonalcoholic",
+    "glass": "bartaco kids cup",
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "oz",
+        "item": "nectar of choice"
+      },
+      {
+        "amount": null,
+        "unit": null,
+        "item": "Sprite to top"
+      },
+      {
+        "amount": 2,
+        "unit": "scoops",
+        "item": "clarico fruit"
+      }
+    ],
+    "instructions": [
+      "Add ice and clarico fruit to kids cup",
+      "Pour nectar",
+      "Top with Sprite",
+      "Add straw"
+    ],
+    "garnish": [
+      "blue straw"
+    ],
+    "source": "1000001097.jpg",
+    "notes": "",
+    "image": "img/kids-clarico.png"
+  },
+  {
+    "id": "sunset",
+    "name": "Sunset",
+    "category": "nonalcoholic",
+    "glass": "bartaco kids cup",
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "oz",
+        "item": "pineapple juice"
+      },
+      {
+        "amount": 3,
+        "unit": "oz",
+        "item": "orange juice"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "grenadine"
+      }
+    ],
+    "instructions": [
+      "Add pineapple and orange juice",
+      "Add ice and strain into kids cup",
+      "Pour grenadine over back of bar spoon"
+    ],
+    "garnish": [
+      "blue straw"
+    ],
+    "source": "1000001098.jpg",
+    "notes": "",
+    "image": "img/sunset.png"
+  },
+  {
+    "id": "pomegranate-limonada",
+    "name": "Pomegranate Limonada",
+    "category": "nonalcoholic",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "simple syrup"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "lemon juice"
+      },
+      {
+        "amount": 3,
+        "unit": "oz",
+        "item": "club soda"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "orange blossom grenadine"
+      }
+    ],
+    "instructions": [
+      "Add syrup, lemon juice and grenadine to tin",
+      "Add ice and shake",
+      "Add 3 oz club soda to side of tin",
+      "Strain into highball with 4 ice cubes"
+    ],
+    "garnish": [],
+    "source": "1000001098.jpg",
+    "notes": "",
+    "image": "img/pomegranate-limonada.png"
+  },
+  {
+    "id": "grapefruit-ginger",
+    "name": "Grapefruit Ginger",
+    "category": "nonalcoholic",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "ginger agave syrup"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 3,
+        "unit": "oz",
+        "item": "grapefruit juice"
+      }
+    ],
+    "instructions": [
+      "Measure into shaker",
+      "Add ice, shake and double strain into rocks glass"
+    ],
+    "garnish": [
+      "grapefruit peel"
+    ],
+    "source": "1000001098.jpg",
+    "notes": "",
+    "image": "img/grapefruit-ginger.png"
+  },
+  {
+    "id": "berry-colada-agua-fresca",
+    "name": "Berry Colada Agua Fresca",
+    "category": "nonalcoholic",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "raspberry purée"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "pineapple juice"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "coconut syrup"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "simple syrup"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "orange juice"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "lime juice"
+      }
+    ],
+    "instructions": [
+      "Add all ingredients to tin",
+      "Add 5–6 ice cubes and shake 20–30 seconds",
+      "Fill Collins glass to top with crushed ice",
+      "Strain cocktail over crushed ice"
+    ],
+    "garnish": [
+      "pineapple leaf"
+    ],
+    "source": "1000001098.jpg",
+    "notes": "",
+    "image": "img/berry-colada-agua-fresca.png"
+  },
+  {
+    "id": "honeydew-agua-fresca",
+    "name": "Honeydew Agua Fresca",
+    "category": "nonalcoholic",
+    "glass": "collins",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "each",
+        "item": "rosemary sprig"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "coconut water"
+      },
+      {
+        "amount": 2,
+        "unit": "oz",
+        "item": "honeydew juice"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "agave simple"
+      }
+    ],
+    "instructions": [
+      "Cut rosemary sprig in half",
+      "Place bottom half in tin, reserve top half",
+      "Add ingredients",
+      "Add ice and shake",
+      "Fill glass with crushed ice and strain",
+      "Double strain over crushed ice"
+    ],
+    "garnish": [
+      "sugar lick",
+      "rosemary sprig"
+    ],
+    "source": "1000001098.jpg",
+    "notes": "",
+    "image": "img/honeydew-agua-fresca.png"
+  },
+  {
+    "id": "red-sangria",
+    "name": "Red Sangria",
+    "category": "cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 6,
+        "unit": "oz",
+        "item": "red sangria"
+      },
+      {
+        "amount": 2,
+        "unit": "barspoons",
+        "item": "clarico fruit"
+      }
+    ],
+    "instructions": [
+      "Pour 6 oz into rocks glass with 4 ice cubes",
+      "Top with clarico fruit"
+    ],
+    "garnish": [
+      "clarico fruit",
+      "short straw"
+    ],
+    "source": "1000001102.jpg",
+    "notes": "",
+    "image": "img/red-sangria.png"
+  },
+  {
+    "id": "bartaco-lib-lula-joven-margarita",
+    "name": "Bartaco Libélula Joven Margarita",
+    "category": "signature cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "agave simple syrup"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "house triple sec"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Joven tequila"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "lime juice"
+      }
+    ],
+    "instructions": [
+      "Add all ingredients to tin",
+      "Add ice and shake well",
+      "Strain into rocks glass with 4 fresh ice cubes"
+    ],
+    "garnish": [
+      "half salt rim upon request"
+    ],
+    "source": "1000001103.jpg",
+    "notes": "",
+    "image": "img/bartaco-lib-lula-joven-margarita.png"
+  },
+  {
+    "id": "bartaco-reposado-margarita",
+    "name": "Bartaco Reposado Margarita",
+    "category": "cocktail",
+    "glass": "rocks",
+    "image": "img/libelula_reposado_margarita.png",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "agave simple syrup"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "house triple sec"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Reposado tequila"
+      }
+    ],
+    "garnish": [
+      "half salt rim",
+      "lime wheel"
+    ],
+    "instructions": [
+      "Measure agave simple first, then others.",
+      "Add ice and shake.",
+      "Strain into rocks glass with 4 fresh ice cubes."
+    ],
+    "source": "original uploaded recipe sheets",
+    "notes": ""
+  },
+  {
+    "id": "passionfruit-oaxacan-margarita",
+    "name": "Passionfruit Oaxacan Margarita",
+    "category": "cocktail",
+    "glass": "rocks",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "each",
+        "item": "orange wedge"
+      },
+      {
+        "amount": 3,
+        "unit": "each",
+        "item": "large mint leaves"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "agave simple syrup"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "Liber passionfruit syrup"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "Suze/Salers gentiane liqueur"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Joven tequila"
+      }
+    ],
+    "instructions": [
+      "Lightly muddle orange, mint and agave",
+      "Add remaining ingredients",
+      "Add ice and shake",
+      "Strain into rocks glass with 4 ice cubes",
+      "Top with full barspoon of prepped chia seeds"
+    ],
+    "garnish": [
+      "mint sprig",
+      "mezcal spray"
+    ],
+    "source": "1000001102.jpg",
+    "notes": "",
+    "image": "img/passionfruit-oaxacan-margarita.png"
+  },
+  {
+    "id": "cazuela-happy-hour",
+    "name": "Cazuela Happy Hour",
+    "category": "happy hour cocktail",
+    "glass": "terracotta cup",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "each",
+        "item": "lime wedge"
+      },
+      {
+        "amount": 1,
+        "unit": "each",
+        "item": "orange wedge"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "agave simple syrup"
+      },
+      {
+        "amount": 1,
+        "unit": "pinch",
+        "item": "salt"
+      },
+      {
+        "amount": 0.5,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 1,
+        "unit": "oz",
+        "item": "grapefruit juice"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
+        "item": "Libélula Joven tequila"
+      },
+      {
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "Sprite"
+      }
+    ],
+    "instructions": [
+      "Muddle lime, orange and agave",
+      "Add salt, lime juice, grapefruit juice and tequila",
+      "Add 5–7 ice cubes and shake",
+      "Salt rim, add 6 ice cubes and strain",
+      "Top with 0.75 oz Sprite"
+    ],
+    "garnish": [
+      "lime wedge",
+      "orange wedge",
+      "short straw"
+    ],
+    "source": "1000001095.jpg",
+    "notes": "",
+    "image": "img/cazuela-happy-hour.png"
   }
 ]
