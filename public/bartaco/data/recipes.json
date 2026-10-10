@@ -598,25 +598,37 @@
     "glass": "rocks",
     "ingredients": [
       {
-        "amount": null,
-        "unit": null,
-        "item": "cucumber"
+        "amount": 2,
+        "unit": "oz",
+        "item": "cucumber mix"
       },
       {
-        "amount": null,
-        "unit": null,
-        "item": "cilantro"
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "simple syrup"
       },
       {
-        "amount": null,
-        "unit": null,
+        "amount": 0.75,
+        "unit": "oz",
+        "item": "lime juice"
+      },
+      {
+        "amount": 1.5,
+        "unit": "oz",
         "item": "tonic water"
       }
+    ],
+    "instructions": [
+      "Add cucumber mix, simple syrup, and lime juice to a small tin.",
+      "Add 5-6 ice cubes and shake for 20 seconds.",
+      "Add 1.5 oz of tonic water to the tin.",
+      "Fill a rocks glass with 4 ice cubes and strain the cocktail over the ice.",
+      "Garnish with a cucumber roll secured with a short skewer."
     ],
     "garnish": [
       "cucumber roll skewer"
     ],
-    "notes": "Ingredient quantities are not visible on the supplied summer rollout card.",
+    "notes": "Cucumber Cooler Kit (2 day shelf life): 600 g peeled cucumber, 100 g deseeded jalapeño.",
     "source": "original uploaded recipe sheets",
     "image": "img/cucumber-cooler.png"
   },
